@@ -1,6 +1,6 @@
 <p align="center">
  <img width="100px" src="https://i.imgur.com/c8mzt5d.png" align="center" alt="Flutter" />
- <h2 align="center">Wicaro Mendes - PhrasesApp</h2>
+ <h2 align="center">Wicaro Mendes - PriceBitcoin</h2>
 </p>
 <br>
 
