@@ -67,7 +67,7 @@ class _HomeState extends State < Home > {
               child: FlatButton(
                 onPressed: _priceBitcoin,
                 color: Color.fromARGB(255, 76, 78, 175),
-                child: Text('Atualizar valor', style: TextStyle(
+                child: Text('Update value', style: TextStyle(
                   color: Colors.white,
                   fontSize: 20,
                 )),
